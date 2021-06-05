@@ -48,12 +48,7 @@
 
     <properties>
         <jdk.version>1.8</jdk.version>
-<<<<<<< HEAD
-        <jet.version>4.5-SNAPSHOT</jet.version>
-        <imdg.version>4.2</imdg.version>
-=======
         <hazelcast.version>5.0-SNAPSHOT</hazelcast.version>
->>>>>>> abb34fe (Migrate to Platform (#134))
         <main.basedir>${project.basedir}</main.basedir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <hadoop.version>3.3.0</hadoop.version>
